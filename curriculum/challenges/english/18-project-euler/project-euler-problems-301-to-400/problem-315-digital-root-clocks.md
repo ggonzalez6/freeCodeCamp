@@ -22,7 +22,7 @@ The clocks consume energy only when segments are turned on/off. To turn on a `2`
 
 Sam and Max built two different clocks.
 
-Sam's clock is fed e.g. number 137: the clock shows `137`, then the panel is turned off, then the next number (`11`) is turned on, then the panel is turned off again and finally the last number (`2`) is turned on and, after some time, off.
+Sam's clock is fed e.g. number 137: the clock shows `137`, then the panel is turned off, then the next number `11` is turned on, then the panel is turned off again and finally the last number `2` is turned on and, after some time, off.
 
 For the example, with number 137, Sam's clock requires:
 
