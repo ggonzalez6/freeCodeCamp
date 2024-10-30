@@ -26,7 +26,7 @@ Both uses of the `test` method would return `true`.
 
 # --instructions--
 
-Change the regex `favRegex` to match both the American English (`favorite`) and the British English (`favourite`) version of the word.
+Change the regex `favRegex` to match both the American English `favorite` and the British English `favourite` version of the word.
 
 # --hints--
 
